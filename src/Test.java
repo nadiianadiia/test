@@ -7,6 +7,7 @@ public class Test {
 		// TODO Auto-generated method st
 		System.out.println("Hello Githab!");
 		Scanner sc = new Scanner(System.in);
+		int i = sc.nextInt();
 
 	}
 
